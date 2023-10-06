@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **antoniok.inquiries@gmail.com**
 
-- ⚡ Go gym and write code.
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
